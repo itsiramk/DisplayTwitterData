@@ -23,3 +23,7 @@ Android Components used:
 1. Development Language - Kotlin
 2. Architecture - MVVM
 3. Dependency Injection - Dagger Hilt
+
+![image](https://user-images.githubusercontent.com/16866972/99192357-70728e00-2798-11eb-970e-51357dae57af.png)
+
+
