@@ -24,6 +24,6 @@ Android Components used:
 2. Architecture - MVVM
 3. Dependency Injection - Dagger Hilt
 
-![image](https://user-images.githubusercontent.com/16866972/99192357-70728e00-2798-11eb-970e-51357dae57af.png)
+![image](https://user-images.githubusercontent.com/16866972/99192421-c6473600-2798-11eb-8b95-25a8dda31ace.png)
 
 
