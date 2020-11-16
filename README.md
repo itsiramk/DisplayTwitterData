@@ -23,6 +23,8 @@ Android Components used:
 1. Development Language - Kotlin
 2. Architecture - MVVM
 3. Dependency Injection - Dagger Hilt
+4. Data Binding
+5. UI - SwipeRefreshLayout, ConstraintLayout
 
 ![image](https://user-images.githubusercontent.com/16866972/99192730-76696e80-279a-11eb-9dc3-9a7750019a72.png)
 
